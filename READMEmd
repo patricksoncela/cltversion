@@ -1,0 +1,7 @@
+git init
+git add .
+git commit -m"primeiro commit"
+git remote add origin URL
+git push -u origin main
+ git branch branch 2
+ git checkout css
